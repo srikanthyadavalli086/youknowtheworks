@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+  background-color: #faa0a0;
+  color: #33306b;
+  font-size: 9px;
+  width: 100vw;
+}
+
+.icon-bg {
+  padding: 10px;
+  border-radius: 40px;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: #33306b;
+}
+
+.icon {
+  font-size: 18px;
+  color: #33306b;
+}
+
+.text {
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.vl {
+  border-left: 1.5px solid #33306b;
+  height: 160px;
+}
+
+.hl {
+  border-bottom: 1.5px solid #33306b;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+.name {
+  font-size: 18px;
+}
+
+.company-name {
+  font-weight: 500;
+}
+
+.interests-icons-bg {
+  background-color: #33306b;
+  color: #faa0a0;
+}
+
+.a {
+  font-size: 12px;
+}
+
+.dot {
+  font-size: 6px;
+}
